@@ -1,0 +1,3 @@
+#syntax:
+    Object.assign(target, ...sources)
+    https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
